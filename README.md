@@ -1,4 +1,4 @@
-###👋 Hello! My name is Austin Bussen.
+👋 Hello! My name is Austin Bussen.
 
 <!--
 **CluelessIRL/CluelessIRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
